@@ -68,4 +68,6 @@ public class SpringbootBlogRestApiApplication  {
 //        userRole.setName("ROLE_USER");
 //        roleRepostiory.save(userRole);
 //    }
+
+    //http://localhost:8080/swagger-ui/index.html#/
 }
